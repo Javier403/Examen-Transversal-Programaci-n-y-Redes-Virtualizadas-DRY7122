@@ -1,1 +1,1 @@
-print ("Integrantes: Joaquin Gonzalez y Javier Ayala"
+print ("Integrantes: Joaquin Gonzalez y Javier Ayala")
